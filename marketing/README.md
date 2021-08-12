@@ -8,4 +8,4 @@ See: [/brand](/brand)
 
 ## Slogan
 
-> Accept and perform crypto payments with DePay. A decentralized payment protocol that simplifies crypto payments.
+> Accept and perform crypto payments with DePay. A decentralized web3 payment protocol that simplifies crypto payments.
