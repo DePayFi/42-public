@@ -12,4 +12,4 @@ Never use abbreviations. Not in variable names nor in projects, classes or repos
 depay-<technology>-<domain>
 ```
 
-e.g. `depay-ethereum-staking`, `depay-react-dialog` etc.
+e.g.  `depay-web3-payments`, `depay-ethereum-staking`, `depay-react-dialog` etc.

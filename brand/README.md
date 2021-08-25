@@ -21,23 +21,30 @@ In case "DePay" should be taken as a name on certain platforms we register, we u
 The DePay logo consists of three circular shapes aranged in three-dimensional space  
 and is supposed to represent a flipping coin.
 
-### Alternatives
-
 [DePay - Logo with text.ai](https://github.com/DePayFi/public-documentation/blob/master/brand/DePay%20-%20Logo%20with%20text.ai?raw=true)
 
 [DePay - Logo with text.png](https://github.com/DePayFi/public-documentation/blob/master/brand/DePay%20-%20Logo%20with%20text.png?raw=true)
+
+### Alternatives
+
+#### To be used on dark bachgrounds
 
 [DePay - Logo with white text.ai](https://github.com/DePayFi/public-documentation/blob/master/brand/DePay%20-%20Logo%20with%20white%20text.ai?raw=true)
 
 [DePay - Logo with white text.png](https://github.com/DePayFi/public-documentation/blob/master/brand/DePay%20-%20Logo%20with%20white%20text.png?raw=true)
 
-[DePay - Logo without circle.ai](https://github.com/DePayFi/public-documentation/blob/master/brand/DePay%20-%20Logo%20without%20circle.ai?raw=true)
-
-[DePay - Logo without circle.png](https://github.com/DePayFi/public-documentation/blob/master/brand/DePay%20-%20Logo%20without%20circle.png?raw=true)
+#### To be used on white bachgrounds
 
 [DePay - Logo on grey circle.ai](https://github.com/DePayFi/public-documentation/blob/master/brand/DePay%20-%20Logo%20on%20grey%20circle.ai?raw=true)
 
 [DePay - Logo on grey circle.png](https://github.com/DePayFi/public-documentation/blob/master/brand/DePay%20-%20Logo%20on%20grey%20circle.png?raw=true)
+
+#### To be used if logo needs to be placed on another solid color
+
+[DePay - Logo without circle.ai](https://github.com/DePayFi/public-documentation/blob/master/brand/DePay%20-%20Logo%20without%20circle.ai?raw=true)
+
+[DePay - Logo without circle.png](https://github.com/DePayFi/public-documentation/blob/master/brand/DePay%20-%20Logo%20without%20circle.png?raw=true)
+
 
 ## Animated Gifs 
 
