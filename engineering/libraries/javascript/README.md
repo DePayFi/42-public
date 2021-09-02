@@ -15,6 +15,7 @@
 
 ### With one level dependencies
 
+```
 [depay-web3-wallets](https://github.com/DePayFi/depay-web3-wallets)
 │
 └── [depay-web3-blockchains](https://github.com/DePayFi/depay-web3-blockchains)
@@ -32,6 +33,7 @@
 ├── [depay-web3-blockchains](https://github.com/DePayFi/depay-web3-blockchains)
 │
 └── [depay-web3-constants](https://github.com/DePayFi/depay-web3-constants)
+```
 
 ### With multi-level dependencies
 
