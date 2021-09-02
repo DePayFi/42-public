@@ -37,6 +37,7 @@
 
 ### With multi-level dependencies
 
+```
 [depay-web3-transaction](https://github.com/DePayFi/depay-web3-transaction)
 │
 ├── [depay-web3-constants](https://github.com/DePayFi/depay-web3-constants)
@@ -187,10 +188,11 @@
         └── [depay-web3-wallets](https://github.com/DePayFi/depay-web3-wallets)
             │
             └── [depay-web3-blockchains](https://github.com/DePayFi/depay-web3-blockchains)
- 
+ ```
 
 ### Bundled libraries
 
+```
 [depay-widgets] https://github.com/DePayFi/depay-widgets
 │
 ├── [depay-web3-blockchains](https://github.com/DePayFi/depay-web3-blockchains)
@@ -365,3 +367,4 @@
                 │
                 └── [depay-web3-blockchains](https://github.com/DePayFi/depay-web3-blockchains)
 
+```
