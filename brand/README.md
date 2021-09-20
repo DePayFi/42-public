@@ -27,6 +27,12 @@ and is supposed to represent a flipping coin.
 
 ### Alternatives
 
+#### To be used for text only contexts
+
+[DePay - Logo just text.ai](https://github.com/DePayFi/public-documentation/blob/master/brand/DePay%20-%20Logo%20just%20text.ai?raw=true)
+
+[DePay - Logo just text.png](https://github.com/DePayFi/public-documentation/blob/master/brand/DePay%20-%20Logo%20just%20text.png?raw=true)
+
 #### To be used on dark bachgrounds
 
 [DePay - Logo with white text.ai](https://github.com/DePayFi/public-documentation/blob/master/brand/DePay%20-%20Logo%20with%20white%20text.ai?raw=true)
